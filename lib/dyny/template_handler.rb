@@ -3,7 +3,6 @@ module Dyny
   class TemplateHandler
     def call(_template, source_code = nil)
       return <<~RUBY
-        extend Dyny::Helper
         #{source_code}
         return output_buffer
       RUBY
