@@ -10,4 +10,4 @@ module Dyny
   end
 end
 
-ActionView::Template.register_template_handler(:rb, Dyny::TemplateHandler.new)
+ActionView::Template.register_template_handler(:dyny, Dyny::TemplateHandler.new)
