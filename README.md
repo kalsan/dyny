@@ -1,6 +1,6 @@
 # Introducing Dyny
 
-![Dyny logo](./logo.svg | width=300)
+<img src="logo.svg" width=250 alt="Dyny logo"/>
 
 Dyny is a tiny framework for writing dynamic Rails views directly in Ruby.
 Typically, Rails views, are written in
