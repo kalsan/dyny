@@ -13,9 +13,16 @@ task :gemspec do
     s.executables   = []
     s.require_paths = ['lib']
     s.required_ruby_version = '>= 3.0.0'
+    s.license = 'LGPL-3.0-or-later'
+    s.homepage = 'https://github.com/kalsan/dyny'
+    s.metadata = {
+      'source_code_uri'   => 'https://github.com/kalsan/dyny',
+      'documentation_uri' => 'https://github.com/kalsan/dyny'
+
+    }
 
     # Dependencies
-    s.add_runtime_dependency 'rails'
+    s.add_runtime_dependency 'rails' # Tested with Rails 7, but olders may work. TBD.
   end
 
   File.open('dyny.gemspec', 'w') do |f|
