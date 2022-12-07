@@ -8,7 +8,7 @@ task :gemspec do
     s.name = 'dyny'
     s.version = Dyny::Version::LABEL
     s.author = ['Sandro Kalbermatter']
-    s.summary = 'Needs summary'
+    s.summary = 'A tiny framework for writing dynamic Rails views directly in Ruby'
     s.files         = `git ls-files`.split($INPUT_RECORD_SEPARATOR)
     s.executables   = []
     s.require_paths = ['lib']
