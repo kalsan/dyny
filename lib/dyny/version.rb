@@ -6,7 +6,7 @@ module Dyny
     MINOR = 0
     PATCH = 1
 
-    EDGE = true
+    EDGE = false
 
     LABEL = [MAJOR, MINOR, PATCH, EDGE ? 'edge' : nil].compact.join('.')
   end

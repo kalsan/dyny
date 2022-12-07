@@ -2,17 +2,17 @@
 # This file is auto-generated via: 'rake gemspec'.
 
 # -*- encoding: utf-8 -*-
-# stub: dyny 0.0.1.edge ruby lib
+# stub: dyny 0.0.1 ruby lib
 
 Gem::Specification.new do |s|
   s.name = "dyny".freeze
-  s.version = "0.0.1.edge"
+  s.version = "0.0.1"
 
-  s.required_rubygems_version = Gem::Requirement.new("> 1.3.1".freeze) if s.respond_to? :required_rubygems_version=
+  s.required_rubygems_version = Gem::Requirement.new(">= 0".freeze) if s.respond_to? :required_rubygems_version=
   s.require_paths = ["lib".freeze]
   s.authors = ["Sandro Kalbermatter".freeze, "contributors".freeze]
-  s.date = "2022-11-23"
-  s.files = [".gitignore".freeze, ".ruby-version".freeze, "LICENSE".freeze, "README.md".freeze, "Rakefile".freeze, "dyny.gemspec".freeze, "lib/dyny/version.rb".freeze]
+  s.date = "2022-12-07"
+  s.files = [".gitignore".freeze, ".ruby-version".freeze, "LICENSE".freeze, "README.md".freeze, "Rakefile".freeze, "dyny.gemspec".freeze, "lib/dyny.rb".freeze, "lib/dyny/helper.rb".freeze, "lib/dyny/railtie.rb".freeze, "lib/dyny/template_handler.rb".freeze, "lib/dyny/version.rb".freeze]
   s.required_ruby_version = Gem::Requirement.new(">= 3.0.0".freeze)
   s.rubygems_version = "3.2.33".freeze
   s.summary = "Needs summary".freeze

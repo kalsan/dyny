@@ -33,6 +33,8 @@ end
   for instance `class` in the example above.
 - If you don't want a HTML tag, but output plain text, use `concat`. See examples below.
 
+**Dyny was tested with Rails 7.**
+
 # But dynamic views are bad?
 
 Rails views are meant to merely display data that was already pre-processed
