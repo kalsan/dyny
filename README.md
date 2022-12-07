@@ -1,5 +1,7 @@
 # Introducing Dyny
 
+![Dyny logo](./logo.svg | width=300)
+
 Dyny is a tiny framework for writing dynamic Rails views directly in Ruby.
 Typically, Rails views, are written in
 [ERB](https://guides.rubyonrails.org/layouts_and_rendering.html),
