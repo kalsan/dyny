@@ -127,3 +127,8 @@ has similar intentions. The key differences to Arbre are:
 - Arbre has its own `Context` concept while Dyny does not. To have Dyny
   generated HTML saved to a string variable, use Rails' `render_to_string`
   method instead, see example above.
+
+# Contributing
+
+You are welcome to contribute to this project via the regular fork and pull
+request procedure.

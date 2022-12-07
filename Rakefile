@@ -7,7 +7,7 @@ task :gemspec do
   specification = Gem::Specification.new do |s|
     s.name = 'dyny'
     s.version = Dyny::Version::LABEL
-    s.author = ['Sandro Kalbermatter', 'contributors']
+    s.author = ['Sandro Kalbermatter']
     s.summary = 'Needs summary'
     s.files         = `git ls-files`.split($INPUT_RECORD_SEPARATOR)
     s.executables   = []
