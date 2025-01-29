@@ -2,11 +2,11 @@
 # This file is auto-generated via: 'rake gemspec'.
 
 # -*- encoding: utf-8 -*-
-# stub: dyny 0.0.4.edge ruby lib
+# stub: dyny 0.1.0 ruby lib
 
 Gem::Specification.new do |s|
   s.name = "dyny".freeze
-  s.version = "0.0.4.edge".freeze
+  s.version = "0.1.0".freeze
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0".freeze) if s.respond_to? :required_rubygems_version=
   s.metadata = { "documentation_uri" => "https://github.com/kalsan/dyny", "source_code_uri" => "https://github.com/kalsan/dyny" } if s.respond_to? :metadata=
