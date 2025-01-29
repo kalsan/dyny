@@ -1,0 +1,5 @@
+lib/dyny.rb 573f27d7df57f192afee6dc26d3739f549505221
+lib/dyny/helper.rb 29350e9377cd96329c2694cb3fe1f761be55d526
+lib/dyny/railtie.rb b4cf80df62cb0ab859796717c956490da2d3b5c2
+lib/dyny/version.rb a85b0bda52a28c8ec742932af8e2330c0c8a4399
+lib/dyny/template_handler.rb 5ee1a521432c810d3feb3b3cb7874c8d673a538d
