@@ -1,3 +1,7 @@
+# unreleased
+
+- Remove textarea helper as it interferes with form building. Use `tag.textarea` where needed.
+
 # 0.0.3
 
 Initial release.

@@ -89,7 +89,6 @@ module Dyny
                    table
                    tbody
                    td
-                   textarea
                    tfoot
                    th
                    thead
